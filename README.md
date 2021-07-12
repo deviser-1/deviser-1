@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deviser-1
 - 👀 I’m interested in Polyglot Devlopment
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Python, GoLang, AI/ML, web scraping, Chatbot, NLP
+- 💞️ I’m looking to collaborate on Python, GoLang, Rust, AI/ML, web scraping, Chatbot, NLP
 - 📫 How to reach me : - deviser.kr@gmail.com
 
 <!---
